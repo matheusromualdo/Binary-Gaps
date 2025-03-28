@@ -1,4 +1,4 @@
-# BinaryGap
+# BinaryGap  EN
 
 This is a small Python program that calculates the longest sequence of consecutive zeros in the binary representation of a given positive integer.
 
@@ -23,7 +23,7 @@ This is a small Python program that calculates the longest sequence of consecuti
    python BinaryGap.py
 
 
-# Gap Binário
+# Gap Binário  PT-BR
 
 Este é um pequeno programa em Python que calcula o maior número de zeros consecutivos em uma representação binária de um número inteiro positivo.
 
